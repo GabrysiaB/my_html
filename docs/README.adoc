@@ -1,83 +1,80 @@
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-    <meta charset="utf-8">
-    <title>CSS Units: VW, FR</title>
-    <link rel="stylesheet" href="index.css">
-</head>
-<body>
-  <p align="center"><font size="6" color="navy" face="Comic Sans MS"><b><i><u>
-  PINCZYN
-  </u></i></b></font></p>
+= _Wspaniały, Kraków !!!_ 
 
-  <p><font size="3" color="navy" face="Arial">
-  Pinczyn – wieś kociewska w Polsce położona w województwie pomorskim, w powiecie starogardzkim, w gminie Zblewo.
-  </u></i></b></font></p>
-<br />
-<center><img src=" <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLALVtBLjGuP9Impwg6q4OryV0VjnX5zvJ1_mgj1TJ53HL1a-Nnw">" alt="Mapa "/>
-<br />
-<br />
-<br />
-<br />
-<table align="center" border="3">
-<tr>
-	<td>GPS wsi </td>	<td align="center"> 18.347778, 53.961389</td>
-</tr>
-<tr>
-	<td>Województwo</td>	<td align="center">Pomorskie</td>
-</tr>
-<tr>
-	<td>Powiat</td>	<td align="center">Starogardzki</td>
-</tr>
-<tr>
-	<td>Gmina</td>	<td align="center">Zblewo</td>
-</tr>
-<tr>
-	<td>Liczba ludności</td>  <td align="center">2 404</td>
-</tr>
+image::c700x420.jpg[c700x420,550]
 
-</table>
-
-<p align="center"><font size="3" color="black" face="Arial">
-Nazwa wsi pochodzi od przezwiska Pinka lub od określenia pieniek, z gwarową wymową pinek. Najprawdopodobniej pierwotnie nazwa wsi brzmiała Pieńki, gwarowo Pinki i stopniowo zmieniała się w Pinczyn. Być może nazwa ma związek z nazwą rzeczki Piesienicy, od której miało powstać nazwisko Pyszyński. Mieszkańcy wywodzą nazwę wsi od połączenia dwóch zniekształconych słów: "piencz (pincz w znaczeniu pięć) synów".
-
-Pinczyn leży przy linii kolejowej nr 203 Tczew – Kostrzyn. Na łące (teren prywatny) obok toru kolejowego leży głaz narzutowy - pomnik przyrody przyniesiony niegdyś przez lodowiec, zwany Kamieniem diabelskim (obwód 14 m, wysokość 2,20 m). Miejscowość ma charakter ulicówki. Przez wieś przepływa rzeka Piesienica. Pinczyn, wraz z sąsiednimi Zblewem i Bytonią. tworzy zwarty obszar osadniczy o charakterze małomiasteczkowym.
+http://krakow.pl/zalacznik/19943/4.jpg[Kraków]
 
 
-</u></i></b></font></p>
+== Urząd Miasta Kraków:
 
-<br />
-<center><img src=" ">" alt=" "/>
-<img src=" " alt=" "/>
-<br />
-<br />
-SZKOŁA PODSTAWOWA
-im. Bohaterów Westerplatte
-- dobre wyniki dydaktyczne
-- aktywne metody nauczania
-- wykwalifikowana kadra pedagogiczna
-- atmosfera życzliwości i bezpieczeństwa
-- różnorodne, nowatorskie metody nauczania
+* [x] <http://www.bip.krakow.pl/>
 
+* [x] <http://www.krakow.pl>
 
-GIMNAZJUM
-im. Ks. Stanisława Hoffmanna
-- możliwość rozwoju zainteresowań
-- grono doświadczonych nauczycieli
-- serdeczna asmosfera wsród uczniów
-- pozytywne środowisko wychowawcze
-- dobre, bezpieczne i przyjazne warunki do nauki
+Urząd Miasta Krakowa
+
+Plac Wszystkich Świętych 3-4,
+31-004 Kraków
+
+Centralna Informacja UMK
+
+tel.: 12 616 12 00, 12 616 12 07
+
+faks: 12 616 17 21
 
 
-HISTORIA SZKOŁY W PINCZYNIE
-W roku szkolnym 1968/69, w dwóch budynkach, sześciu pomieszczeniach do nauczania uczyło się 12 oddziałów, a w szkole na jeden oddział przypadało 53 uczniów. Tak trudnych warunków szkoła nigdy nie posiadała, w związku z tym 10.X.1968r.rozpoczęto budowę nowej szkoły. Szkoła została oddana do użytku 22 lipca 1969r. Rok szkolny 1969/70 rozpoczął się w nowej szkole w 30 rocznicę wybuchu II wojny światowej. Tego dnia szkoła otrzymała sztandar i imię Bohaterów Westerplatte.
-W czasie 80- letniej działalności szkoła w Pinczynie była placówką integrującą społeczeństwo lokalne. W kronikach szkoły zanotowano wiele ciekawych wydarzeń świadczących o osiągnięciach w dziedzinie dydaktycznej, opiekuńczej i wychowawczej. Uczniowie szkoły pod kierunkiem swoich nauczycieli angażowali się w życie społeczne i kulturalne swojego środowiska, pielęgnując tradycje narodowe i kulturę regionalną.
-W roku szkolnym 1999/2000 w wyniku wprowadzenia I etapu reformy oświaty powstało w Pinczynie Publiczne Gimnazjum, został powołany Zespół Kształcenia i Wychowania, w skład którego wchodzą: Publiczne Przedszkole w Pinczynie, Publiczna Szkoła Podstawowa w Pinczynie, Publiczne Gimnazjum w Pinczynie.
 
 
-<br />
-<a href="https://zkiwpinczyn.pl"><font face="Arial" size="4" color="navy"></font></a>
-</center>
-</body>
-</html>
-© 2018 GitHub, Inc.
+== GPS wsi:
+
+18.347778, 53.961389.
+
+ 
+
+POPULACJA Wsi (stan na 31.12.2017).
+
+
+    ** Liczba ludności 2 404 osób.
+
+== Ludność Miasta na przestrzeni lat:
+
+
+
+
+== Mapa Pinczyna:
+
+
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLALVtBLjGuP9Impwg6q4OryV0VjnX5zvJ1_mgj1TJ53HL1a-Nnw[MAPA]
+
+image::4.jpg[c350x210,225]
+
+
+
+
+
+
+== Co można znależć w Pinczynie:
+Szkoła, Ochotnicza Straż Pożarna, Kościół Parafialny
+
+|====
+| Nazwa dzielnicy | Powierzchnia w ha | Liczba mieszkańców
+| Dzielnica I Stare Miasto | 556,76 | 35 573
+| Dzielnica II Grzegórzki	| 584,52 | 29 230
+| Dzielnica III	| 643,79 | 47 775	
+| Dzielnica	IV | 2341,87 | 69 135	
+| Dzielnica	V | 561,90 | 31 870	
+| Dzielnica	VI | 955,96 | 23 465	
+| Dzielnica VII | 2873,10 | 20 454	
+| Dzielnica VIII | 4618,87 | 59 395	
+| Dzielnica IX	| 541,51 | 14 859	
+| Dzielnica X	| 2560,40 | 25 608	
+| Dzielnica XI	| 954,00	| 52 859	
+| Dzielnica	XII | 1847,39 | 63 026	
+| Dzielnica	XIII | 2566,71 | 34 045	
+| Dzielnica	XIV | 1225,68 | 26 699	
+| Dzielnica XV | 559,00 | 53 015	
+| Dzielnica XVI | 369,90 | 42 633	
+| Dzielnica XVII | 2381,55 | 20 303	
+| Dzielnica XVIII	| 6540,99 | 54 588	
+|===
