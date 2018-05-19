@@ -65,11 +65,13 @@ POPULACJA Wsi (stan na 31.12.2017).
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLALVtBLjGuP9Impwg6q4OryV0VjnX5zvJ1_mgj1TJ53HL1a-Nnw[MAPA]
 
-image::stare.jpg[c350x210,225]
+image::stare.jpg[350x210,225]
 
 
 
 
 == Co można znależć w Pinczynie:
-Szkoła, Ochotnicza Straż Pożarna, Kościół Parafialny
+* Szkoła
+* Ochotnicza Straż Pożarna
+* Kościół Parafialny
 
