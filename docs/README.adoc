@@ -1,6 +1,6 @@
 = _Pinczyn ;)_ 
 
-image::Pinczyn.jpg[c700x420,550]
+image::IMG_2665-copy.jpg[c700x420,550]
 
 
 
