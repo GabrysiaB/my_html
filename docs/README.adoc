@@ -65,7 +65,7 @@ POPULACJA Wsi (stan na 31.12.2017).
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLALVtBLjGuP9Impwg6q4OryV0VjnX5zvJ1_mgj1TJ53HL1a-Nnw[MAPA]
 
-image::stare.png[c700x420,550]
+image::Pinczyn.jpg[c700x420,550]
 
 
 
