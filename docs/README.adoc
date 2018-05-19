@@ -13,10 +13,10 @@ http://pinczyn.pl/zalacznik/19943/4.jpg[pinczyn]
 
 * [x] <http://przedszkolepinczyn.pl>
 
-*Historia szkoły
+** Historia szkoły
 
 * SZKOŁA PODSTAWOWA
-im. Bohaterów Westerplatte
+ im. Bohaterów Westerplatte
 - dobre wyniki dydaktyczne
 - aktywne metody nauczania
 - wykwalifikowana kadra pedagogiczna
@@ -25,7 +25,7 @@ im. Bohaterów Westerplatte
 
 
 * GIMNAZJUM
-im. Ks. Stanisława Hoffmanna
+ im. Ks. Stanisława Hoffmanna
 - możliwość rozwoju zainteresowań
 - grono doświadczonych nauczycieli
 - serdeczna asmosfera wsród uczniów
@@ -33,16 +33,16 @@ im. Ks. Stanisława Hoffmanna
 - dobre, bezpieczne i przyjazne warunki do nauki
 
 
-*HISTORIA SZKOŁY W PINCZYNIE
-W roku szkolnym 1968/69, w dwóch budynkach, sześciu pomieszczeniach do nauczania uczyło się 12 oddziałów, a w szkole na jeden oddział przypadało 53 uczniów. Tak trudnych warunków szkoła nigdy nie posiadała, w związku z tym 10.X.1968r.rozpoczęto budowę nowej szkoły. Szkoła została oddana do użytku 22 lipca 1969r. Rok szkolny 1969/70 rozpoczął się w nowej szkole w 30 rocznicę wybuchu II wojny światowej. Tego dnia szkoła otrzymała sztandar i imię Bohaterów Westerplatte.
-W czasie 80- letniej działalności szkoła w Pinczynie była placówką integrującą społeczeństwo lokalne. W kronikach szkoły zanotowano wiele ciekawych wydarzeń świadczących o osiągnięciach w dziedzinie dydaktycznej, opiekuńczej i wychowawczej. Uczniowie szkoły pod kierunkiem swoich nauczycieli angażowali się w życie społeczne i kulturalne swojego środowiska, pielęgnując tradycje narodowe i kulturę regionalną.
-W roku szkolnym 1999/2000 w wyniku wprowadzenia I etapu reformy oświaty powstało w Pinczynie Publiczne Gimnazjum, został powołany Zespół Kształcenia i Wychowania, w skład którego wchodzą: Publiczne Przedszkole w Pinczynie, Publiczna Szkoła Podstawowa w Pinczynie, Publiczne Gimnazjum w Pinczynie.
+* HISTORIA SZKOŁY W PINCZYNIE
+ W roku szkolnym 1968/69, w dwóch budynkach, sześciu pomieszczeniach do nauczania uczyło się 12 oddziałów, a w szkole na jeden oddział przypadało 53 uczniów. Tak trudnych warunków szkoła nigdy nie posiadała, w związku z tym 10.X.1968r.rozpoczęto budowę nowej szkoły. Szkoła została oddana do użytku 22 lipca 1969r. Rok szkolny 1969/70 rozpoczął się w nowej szkole w 30 rocznicę wybuchu II wojny światowej. Tego dnia szkoła otrzymała sztandar i imię Bohaterów Westerplatte.
+
+ W roku szkolnym 1999/2000 w wyniku wprowadzenia I etapu reformy oświaty powstało w Pinczynie Publiczne Gimnazjum, został powołany Zespół Kształcenia i Wychowania, w skład którego wchodzą: Publiczne Przedszkole w Pinczynie, Publiczna Szkoła Podstawowa w Pinczynie, Publiczne Gimnazjum w Pinczynie.
 
 
 * Nazwa wsi:
-Nazwa wsi pochodzi od przezwiska Pinka lub od określenia pieniek, z gwarową wymową pinek. Najprawdopodobniej pierwotnie nazwa wsi brzmiała Pieńki, gwarowo Pinki i stopniowo zmieniała się w Pinczyn. Być może nazwa ma związek z nazwą rzeczki Piesienicy, od której miało powstać nazwisko Pyszyński. Mieszkańcy wywodzą nazwę wsi od połączenia dwóch zniekształconych słów: "piencz (pincz w znaczeniu pięć) synów".
+ Nazwa wsi pochodzi od przezwiska Pinka lub od określenia pieniek, z gwarową wymową pinek. Najprawdopodobniej pierwotnie nazwa wsi brzmiała Pieńki, gwarowo Pinki i stopniowo zmieniała się w Pinczyn. Być może nazwa ma związek z nazwą rzeczki Piesienicy, od której miało powstać nazwisko Pyszyński. Mieszkańcy wywodzą nazwę wsi od połączenia dwóch zniekształconych słów: "piencz (pincz w znaczeniu pięć) synów".
 
-Pinczyn leży przy linii kolejowej nr 203 Tczew – Kostrzyn. Na łące (teren prywatny) obok toru kolejowego leży głaz narzutowy - pomnik przyrody przyniesiony niegdyś przez lodowiec, zwany Kamieniem diabelskim (obwód 14 m, wysokość 2,20 m). Miejscowość ma charakter ulicówki. Przez wieś przepływa rzeka Piesienica. Pinczyn, wraz z sąsiednimi Zblewem i Bytonią. tworzy zwarty obszar osadniczy o charakterze małomiasteczkowym.
+ Pinczyn leży przy linii kolejowej nr 203 Tczew – Kostrzyn. Na łące (teren prywatny) obok toru kolejowego leży głaz narzutowy - pomnik przyrody przyniesiony niegdyś przez lodowiec, zwany Kamieniem diabelskim (obwód 14 m, wysokość 2,20 m). Miejscowość ma charakter ulicówki. Przez wieś przepływa rzeka Piesienica. Pinczyn, wraz z sąsiednimi Zblewem i Bytonią. tworzy zwarty obszar osadniczy o charakterze małomiasteczkowym.
 
 
 == GPS wsi:
